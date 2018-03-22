@@ -2,8 +2,8 @@
 
 ### 1.  Basic
   - [X] youtube.com - Time complexity of a computer program
-  - [ ] youtube.com - **Big-O notation in 5 minutes - The basics**
-  - [ ] youtube.com - Definition Of Big O Notation - Intro to Theoretical Computer Science
+  - [X] youtube.com  Big-O notation in 5 minutes - The basics
+  - [ ] youtube.com  Definition Of Big O Notation - Intro to Theoretical Computer Science
   - [ ] youtube.com - Algorithms Lecture 1 -- Introduction to asymptotic notations
   - [X] ~~iarcs.org.in - Measuring the efficiency of algorithms~~ Slides from IISC Chennai
   - [X] interactivepython.org - Particularly for Big-O notation
