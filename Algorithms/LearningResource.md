@@ -65,7 +65,7 @@
 - [ ] codeforces.com - B. Alternating Current
 - [ ] codeforces.com - C. Longest Regular Bracket Sequence
 
-# Basic math operations (addition, subtraction, multiplication, division, exponentiation)
+# Basic math operations 
 - [ ] codechef.com - A tutorial on Fast Modulo Multiplication
 
 # Euclid’s GCD Algorithm
@@ -86,8 +86,8 @@
 
 # Basic Recursion
 ### 1. Resources
-- [ ] topcoder.com - An Introduction to Recursion, Part 1
-- [ ] topcoder.com - An Introduction to Recursion: Part 2
+- [X] topcoder.com - `An Introduction to Recursion, Part 1`
+- [X] topcoder.com - `An Introduction to Recursion: Part 2`
 - [ ] geeksforgeeks.org - Recursion ;(along with questions)
 - [ ] web.mit.edu - Recursion
 - [ ] csee.umbc.edu - Recursion ;(Examples with exercises)
