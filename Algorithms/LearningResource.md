@@ -1,12 +1,12 @@
 # Analysis of Algorithms
 
 ### 1.  Basic
-  - [X] youtube.com - Time complexity of a computer program
-  - [X] youtube.com  Big-O notation in 5 minutes - The basics
-  - [ ] youtube.com  Definition Of Big O Notation - Intro to Theoretical Computer Science
-  - [ ] youtube.com - Algorithms Lecture 1 -- Introduction to asymptotic notations
-  - [X] ~~iarcs.org.in - Measuring the efficiency of algorithms~~ Slides from IISC Chennai
-  - [X] interactivepython.org - Particularly for Big-O notation
+ - [X] youtube.com - Time complexity of a computer program
+ - [X] youtube.com  **Big-O notation in 5 minutes - The basics**
+ - [ ] youtube.com  Definition Of Big O Notation - Intro to Theoretical Computer Science
+ - [ ] youtube.com - Algorithms Lecture 1 -- Introduction to asymptotic notations
+ - [X] ~~iarcs.org.in - Measuring the efficiency of algorithms~~ Slides from IISC Chennai
+ - [X] interactivepython.org - Particularly for Big-O notation
 ### 2. Advanced
 - [ ] rob-bell.net - A beginner's guide to Big O notation
 - [ ] youtube.com - Big O Notation, Gayle Laakman McDowell
