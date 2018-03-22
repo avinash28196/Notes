@@ -6,13 +6,13 @@
   - [ ] youtube.com - Definition Of Big O Notation - Intro to Theoretical Computer Science
   - [ ] youtube.com - Algorithms Lecture 1 -- Introduction to asymptotic notations
   - [ ] iarcs.org.in - Measuring the efficiency of algorithms
-  - [ ] interactivepython.org - Particularly for Big-O notation
+  - [X] interactivepython.org - Particularly for Big-O notation
 ### 2. Advanced
 - [ ] rob-bell.net - A beginner's guide to Big O notation
 - [ ] youtube.com - Big O Notation, Gayle Laakman McDowell
 - [ ] web.mit.edu - Big O notation
 - [ ] youtube.com - Time and space complexity analysis of recursive programs - using factorial
-- [ ] A very nice tutorial with examples
+- [ ] ~~A very nice tutorial with examples~~
 ### 3. Practice Problems
 - [ ] Check some MCQs on space and time complexity here.
 - [ ] You can see some problems with solutions here: Time complexity of an algorithm
