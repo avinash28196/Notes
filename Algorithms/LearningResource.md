@@ -176,12 +176,12 @@
 
 # Binary Search
 ### 1. Resources
-- [ ] topcoder.com (Try solving problems of Simple and Moderate level as mentioned in the end of the link)
-- [ ] codechef.com
-- [ ] usfca.edu
-- [ ] khanacademy.org
+- [X] topcoder.com (Try solving problems of Simple and Moderate level as mentioned in the end of the link)
+- [X] ~~codechef.com~~
+- [X] ~~usfca.edu~~ **Visulation Of Binary Search**
+- [X] ~~anacademy.org~~
 - [ ] Detailed Theoretical analysis
-- cmu.edu (A theoretical analysis)
+      - cmu.edu (A theoretical analysis)
 ### 2. Problems
 - [ ] geeksforgeeks.org - Binary Search (Contains some solved problems)
 - [ ] codechef.com - STRSUB, editorial
