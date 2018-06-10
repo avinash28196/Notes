@@ -13,3 +13,17 @@ var materials = [
 console.log(materials.map(material => material.length));
 // expected output: Array [8, 6, 7, 9]
 ```
+
+
+## Note:
+
+1. (param1, param2, …, paramN) => { statements } 
+   (param1, param2, …, paramN) => expression
+   // equivalent to: => { return expression; } 
+
+2. // Parentheses are optional when there's only one parameter name:
+   (singleParam) => { statements }
+    singleParam => { statements }
+
+3. // The parameter list for a function with no parameters should be written with a pair of parentheses.
+    () => { statements }
