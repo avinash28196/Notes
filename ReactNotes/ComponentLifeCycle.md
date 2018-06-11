@@ -29,6 +29,7 @@ The getDefaultProps() method is called once and cached — shared across ins
 The getInitialState() method is also invoked once, right before the mounting phase. The return value of this method will be used as initial value of this.state and should be an object.
 
 2. mounting.
+
 Mounting is the process that occurs when a component is being inserted into the DOM. This phase has two methods that we can hook up with: componentWillMount() and componentDidMount().
 
 The **componentWillMount()** method is the first called in this phase. It’s invoked once and immediately before the initial rendering occurs, hence before React inserts the component into the DOM. It’s very important to note that calling this.setState() within this method will not trigger a re-render.
