@@ -10,3 +10,10 @@ class Welcome extends React.Component {
 }
 ```
 The only method you must define in a React.Component subclass is called render(). All the other methods described on this page are optional.
+
+
+# The Component Lifecycle
+
+Each component has several “lifecycle methods” that you can override to run code at particular times in the process. 
+
+![LifeCycle] (https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
