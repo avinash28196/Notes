@@ -36,8 +36,20 @@ The **componentWillMount()** method is the first called in this phase. It’s in
 
 The **componentDidMount()** is the second invoked in this phase, just once and immediately after React inserts the component into the DOM. Now the updated DOM is available for access, which means that this method is the best place for initializing other Javascript libraries that need access to the DOM and for data fetching operations.
 
-3. updating
+3. Updating
 
+This phase starts when the react component has taken birth on the browser and grows by receiving new updates. The component can be updated by two ways, sending new props or updating the state.
+
+  * **shouldComponentUpdate** tells the React that when the component receives new props or state is being updated, should       React re-render or it can skip rendering? 
+  This method is a question, should the Component be Updated? 
+  Hence this method should return true or false, and accordingly the component would be re-rendered or skipped. By default,     this method return true.
+  
+  * **componentWillUpdate** is executed only after the shouldComponentUpdate returns true. This method is only used to do the   preparation for the upcoming render, similar to componentWillMount or constructor.
+  There can be some use case when there needs some calculation or preparation before rendering some item, this is the place to   do so.
+  
+  * **render** And then the component gets rendered.
+
+  * **componentDidUpdate** is executed when the new updated component has been updated in the DOM. This method is used to re     trigger the third party libraries used to make sure these libraries also update and reload themselves.
 
 
 4. unmounting
