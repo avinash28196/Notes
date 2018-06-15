@@ -27,3 +27,5 @@ console.log(materials.map(material => material.length));
 
 3. // The parameter list for a function with no parameters should be written with a pair of parentheses.
     () => { statements }
+
+[Arrow](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
