@@ -35,8 +35,41 @@ npm install package_name
 ```
 This will create the node_modules directory in your current directory (if one doesn't exist yet) and will download the package to that directory.
 
+If you want to depend on the package from your own module, using something like Node.js' require, then you want to install locally. This is npm install's default behavior.
+If you want to use a package as a command line tool, (such as grunt CLI), then install it globally
+
 ## Which Version of the Package is Installed?
 If there is no package.json file in the local directory, the latest version of the package is installed.
 
 If there is a package.json file, npm installs the latest version that satisfies the [semver](https://docs.npmjs.com/getting-started/semantic-versioning) rule declared in package.json.
+
+### Example
+
+```
+>npm install lodash
+>ls node_modules
+#=> lodash
+```
+
+### using installed packages in the code.
+
+Create a file named index.js, with the following code:
+
+// index.js
+var lodash = require('lodash');
+ 
+var output = lodash.without([1, 2, 3], 1);
+console.log(output);
+Run the code using node index.js. It should output [2, 3].
+
+If you had not properly installed lodash, you would receive this error:
+
+```
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module 'lodash'
+```
+
+
 
