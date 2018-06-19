@@ -27,5 +27,16 @@ npm consists of three distinct components:
 - Discover multiple ways to solve the same puzzle.
 
 
+## Installing Packages 
 
+A package can be downloaded with the command:
+```node.js
+npm install package_name
+```
+This will create the node_modules directory in your current directory (if one doesn't exist yet) and will download the package to that directory.
+
+## Which Version of the Package is Installed?
+If there is no package.json file in the local directory, the latest version of the package is installed.
+
+If there is a package.json file, npm installs the latest version that satisfies the [semver](https://docs.npmjs.com/getting-started/semantic-versioning) rule declared in package.json.
 
