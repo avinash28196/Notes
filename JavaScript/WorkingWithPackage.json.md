@@ -79,7 +79,7 @@ The easier (and more awesome) way to add dependencies to your package.json is to
 
 To add an entry to your package.json's dependencies:
 ```
-npm install <package_name> [--save-prod]
+npm install <package_name> --save-prod
 ```
 To add an entry to your package.json's devDependencies:
 ```
