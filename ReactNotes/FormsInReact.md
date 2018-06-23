@@ -46,6 +46,7 @@ import App from './App.jsx';
 ReactDOM.render(<App/>, document.getElementById('app'));
 
 ```
+When the input text value changes, the state will be updated.
 
 ![Result](https://www.tutorialspoint.com/reactjs/images/react-forms-simple.jpg)
 
