@@ -48,4 +48,4 @@ import App from './App.jsx';
 ReactDOM.render(<App/>, document.getElementById('app'));
 ```
 
-![Result]https://www.tutorialspoint.com/reactjs/images/react-events-child.jpg
+![Result](https://www.tutorialspoint.com/reactjs/images/react-events-child.jpg)
