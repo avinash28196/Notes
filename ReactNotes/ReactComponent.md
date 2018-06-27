@@ -24,3 +24,11 @@ Why do we need the parentheses around the return statement (line 3)? This is bec
 Props are half of what make React components special. (Don't worry. I won't spoil the other half until later.)
 
 In fact, you've already been introduced to props. The JSX attributes you were setting earlier, like className, were props! When a component is rendered, it can access its "props" using this.props. In the code above, the Message component uses this.props.message.
+
+``` javascript
+render: function() {
+  return (
+    <div>{this.props.message}</div>
+  );
+}
+```
