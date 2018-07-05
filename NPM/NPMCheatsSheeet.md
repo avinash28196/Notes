@@ -114,24 +114,5 @@ npm outdated
 npm shrinkwrap
 ```
 
-###### Install a git specific release
-
-```
-npm install git://github.com/Marak/colors.js#v0.6.0
-```
-
-######Easter Eggs
-
-```
-npm xmas
-```
-
-```
-npm visnup
-```
-
-```
-npm substack
-```
 
 
