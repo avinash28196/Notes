@@ -499,4 +499,5 @@ function connectExtended(
 
 export {connectExtended as connect}
 ```
+
 Now you can import the above `Provider` and `connect` and use them.
