@@ -1,13 +1,4 @@
-# Array Helpers and other built In's.
-
-1. forEach
-2. map
-3. filter
-4. reduce
-5. Every and some
-6. find 
-
-## map() and forEach() So, what’s the difference?
+# map() and forEach() So, what’s the difference?
 
 Map & ForEach Defined
 Let’s first take a look at the definitions on MDN:
