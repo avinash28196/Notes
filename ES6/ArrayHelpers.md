@@ -105,15 +105,52 @@ var roots = numbers.map(Math.sqrt);
 console.log(roots)
 
 Output: [1,2,3]
+
+-------------------------------------
+var numbers = [1, 4, 9];
+var doubles = numbers.map(function(num) {
+  return num * 2;
+});
+
+// doubles is now [2, 8, 18]
+// numbers is still [1, 4, 9]
+```
+### Calculating value with map
+
+```javascript
+var trips = [
+  { distance: 34, time: 10 },
+  { distance: 90, time: 50 },
+  { distance: 59, time: 25 }
+];
+
+var speeds = trips.map( trip => { return trip.distance / trip.time });
+console.log(speeds)
+
+Output: [3.4,1.8,2.36]
 ```
 
+# Which is better?
 
+## Speed Considerations
 
+[](https://cdn-images-1.medium.com/max/1600/1*aVOlJ0l02ymgVrQ8axIBrQ.png)
+As you can see, on my machine forEach() was more than 70% slower than map(). Your browser is probably different.
 
+## Functional Considerations
+*. It’s important to also understand that using map() may be preferable if you favor functional programming.
 
+*. This is because forEach() affects and changes our original Array, whereas map() returns an entirely new Array — thus leaving the original array unchanged
 
+*. forEach() may be preferable when you’re not trying to change the data in your array, but instead want to just do something with it — like saving it to a database or logging it out
 
+*. map() might be preferable when changing or altering data. Not only is it faster but it returns a new Array. This means we can do cool things like chaining on other methods ( map(), filter(), reduce(), etc.)
 
+# Key points:
+
+1. Just about anything you can do with forEach() you can do with map(), and vise versa.
+2. map() allocates memory and stores return values. forEach() throws away return values and always returns undefined.
+2. forEach() will allow a callback function to mutate the current array. map() will instead return a new array.
 
 
 
