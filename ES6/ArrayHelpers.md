@@ -138,13 +138,13 @@ Output: [3.4,1.8,2.36]
 As you can see, on my machine forEach() was more than 70% slower than map(). Your browser is probably different.
 
 ## Functional Considerations
-*. It’s important to also understand that using map() may be preferable if you favor functional programming.
+* It’s important to also understand that using map() may be preferable if you favor functional programming.
 
-*. This is because forEach() affects and changes our original Array, whereas map() returns an entirely new Array — thus leaving the original array unchanged
+* This is because forEach() affects and changes our original Array, whereas map() returns an entirely new Array — thus leaving the original array unchanged
 
-*. forEach() may be preferable when you’re not trying to change the data in your array, but instead want to just do something with it — like saving it to a database or logging it out
+* forEach() may be preferable when you’re not trying to change the data in your array, but instead want to just do something with it — like saving it to a database or logging it out
 
-*. map() might be preferable when changing or altering data. Not only is it faster but it returns a new Array. This means we can do cool things like chaining on other methods ( map(), filter(), reduce(), etc.)
+* map() might be preferable when changing or altering data. Not only is it faster but it returns a new Array. This means we can do cool things like chaining on other methods ( map(), filter(), reduce(), etc.)
 
 # Key points:
 
@@ -155,7 +155,3 @@ As you can see, on my machine forEach() was more than 70% slower than map(). You
 
 
 
-
-https://medium.com/@voonminghann/array-helper-methods-in-es6-412dbc3f845b
-
-https://codeburst.io/javascript-map-vs-foreach-f38111822c0f
