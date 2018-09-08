@@ -1,5 +1,7 @@
 # What is react?
 
+## ReactJS is an open-source, component based front end library responsible only for the view layer of the application. It is maintained by Facebook. ReactJS uses virtual DOM based mechanism to fill in data (views) in HTML DOM. The virtual DOM works fast owning to the fact that it only changes individual DOM elements instead of reloading complete DOM every time
+
 ## A JavaScript library for building user interfaces
 
 ### React is javascript library, not a framework. react can be used with many other javascript libaray to build more powerfull app. and React is used to build user interface.
