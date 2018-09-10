@@ -1,4 +1,4 @@
-# The find() method returns the value of the first element in the array that satisfies the provided testing function. Otherwise undefined is returned.
+## The find() method returns the value of the first element in the array that satisfies the provided testing function. Otherwise undefined is returned.
 
 ``` javascript
 var array1 = [5, 12, 8, 130, 44];
