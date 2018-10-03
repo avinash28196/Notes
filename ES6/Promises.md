@@ -6,6 +6,8 @@ Promises are a pattern that helps with one particular kind of asynchronous progr
 
 ## Creating and using promises.
 
+
+```javascript
 var promise = new Promise(
     function (resolve, reject) { // (A)
         ...
@@ -15,7 +17,7 @@ var promise = new Promise(
             reject(reason); // failure
         }
   });
-  
+  ```
   
 A promise is always in either one of three (mutually exclusive) states:
 
