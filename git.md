@@ -1,27 +1,4 @@
-**Start**
 
-* [init](#init)
-
-**Files**
-
-* [add](#add)
-* [commit](#commit)
-* [rm](#rm)
-
-**Branches**
-
-* [branch](#branch)
-* [checkout](#checkout)
-* [merge](#merge)
-
-**Introspection**
-
-* [status](#status)
-* [diff](#diff)
-* [log](#log)
-* [show-ref](#show-ref)
-
----
 
 ## init
 
