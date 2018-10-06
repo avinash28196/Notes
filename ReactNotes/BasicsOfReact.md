@@ -36,5 +36,10 @@ React components implement a render() method that takes input data and returns w
 ```
 Output: Taylor
 ```
+# Note:
+
+1.  JSX is not valid JavaScript, JSX code must be compiled into JavaScript. The transpiler Babel is a popular tool for this process. 
+2. ReactDOM.render(JSX, document.getElementById('root')). This function call is what places your JSX into React's own lightweight representation of the DOM. React then uses snapshots of its own DOM to optimize updating only specific parts of the actual DOM.
+
 
 
