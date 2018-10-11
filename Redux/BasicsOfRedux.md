@@ -68,3 +68,8 @@ function todoApp(state = {}, action) {
 
 This is basically the whole idea of Redux. Note that we haven’t used any Redux APIs. It comes with a few utilities to facilitate this pattern, but the main idea is that you describe how your state is updated over time in response to action objects, and 90% of the code you write is just plain JavaScript, with no use of Redux itself, its APIs, or any magic.
 
+
+const inputStyle = {
+  width: 235,
+  margin: 5
+}
