@@ -182,6 +182,8 @@ function postFile(url, fileSelector) {
   .then(response => response.json())
 }
 ```
+
+```javascript
 fetch('https://randomuser.me/api/')
   .then(function(response) {
     return response.json();
@@ -191,3 +193,17 @@ fetch('https://randomuser.me/api/')
 	
     console.log(JSON.stringify(X));
   });
+  
+  
+fetch('https://randomuser.me/api/?results=5')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(myJson) {
+  for (i in myJson.results){
+    console.log(myJson.results[i].name.title+ ' ' +myJson.results[i].name.first+ ' ' +myJson.results[i].name.last )
+    console.log(myJson.results[i].location.city+ ' '+myJson.results[i].location.state)
+  }
+});
+
+```
