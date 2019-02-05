@@ -46,4 +46,6 @@ annotation. We generally recommend that you add one or the other to your primary
 @Service
 @Entity
 
+https://www.baeldung.com/spring-boot-annotations
+
 
