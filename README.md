@@ -8,7 +8,7 @@
 
 
 
-https://www.codechef.com/getting-started
+
 https://medium.freecodecamp.org/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d
 
 
