@@ -24,3 +24,4 @@ Terminology summary.
 
 A binary tree is one type of data structure that has two nodes, a left node and a right node. In programming, binary trees are actually an extension of the linked list structures.
 
+day 1
