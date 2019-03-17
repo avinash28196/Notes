@@ -77,11 +77,11 @@ To specify the packages your project depends on, you need to list the packages y
 The --save-prod and --save-dev install flags
 The easier (and more awesome) way to add dependencies to your package.json is to do so from the command line, flagging the npm install command with either --save-prod (assumed by default) or --save-dev, depending on how you'd like to use that dependency.
 
-To add an entry to your package.json's dependencies:
+### To add an entry to your package.json's dependencies:
 ```
 npm install <package_name> --save-prod
 ```
-To add an entry to your package.json's devDependencies:
+### To add an entry to your package.json's devDependencies:
 ```
 npm install <package_name> --save-dev
 ```
