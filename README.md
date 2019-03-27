@@ -14,3 +14,6 @@ https://medium.freecodecamp.org/python-interview-question-guide-how-to-code-a-li
 
 https://stackoverflow.com/questions/846103/runtime-vs-compile-time
 
+
+https://www.petrikainulainen.net/spring-data-jpa-tutorial/
+
