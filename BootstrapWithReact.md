@@ -1,5 +1,12 @@
 
 
+npx create-react-app my-app
+
+npm install axios
+
+npm install
+
+
 
 If you are new to React and using create-react-app cli setup. Then run the below NPM command to include the latest version of bootstrap.
 
