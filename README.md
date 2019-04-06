@@ -17,3 +17,5 @@ https://stackoverflow.com/questions/846103/runtime-vs-compile-time
 
 https://www.petrikainulainen.net/spring-data-jpa-tutorial/
 
+https://www.mkyong.com/tutorials/java-8-tutorials/
+
