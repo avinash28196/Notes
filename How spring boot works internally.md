@@ -1,3 +1,5 @@
+https://dzone.com/articles/7-things-to-know-getting-started-with-spring-boot
+
 # How SpringBoot Works Internally
 
 Spring Boot is an implementation of microservice architecture. This is “an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities.
