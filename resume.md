@@ -1,11 +1,18 @@
 ## Professional Experience
 
-2 Years' experience in Java development and an exceptional software engineering  experience in design and development of web based applications with strong knowledge of Java/J2EE, database management system, and system development life cycle. 
+2 Years' experience in Java development and an exceptional software engineering experience in design and development of web based applications with strong knowledge of Java/J2EE,  database management system, and system development life cycle. 
+Strong engineering professional with a Bachelor's degree focused in Information Technology from Ramaiah Institute Of Technology. 
+
+
+
+2 Years experience in Java development and an exceptional software engineering experience in design and development of web
+bassed enterprise applications using core Java and J2EE technology like Spring MVC, Spring Boot, Hibernate, Java persistence API, database management system, and system development life cycle. 
+Strong engineering professional with a Bachelor's degree focused in Information Technology from Ramaiah Institute Of Technology. 
 
 
 2 Years of Hands on experience in design and development of web, client-server environment and enterprise applications using core Java and J2EE technology like Spring MVC, Spring Boot, Hibernate, Java persistence API and other related  technologies 
 
-I have over 2 years of experience as a software engineer, and have in large financial organizations. While I'm a proficient full-stack developer and a ETL Developer for Global Payments and Fraud Protection Unit in Discover Financial services. My expertise is in building scalable backend services (API services, batch processing,  and shell scripting).
+I have over an years of experience as a software engineer, and have in large financial organizations. While I'm a proficient full-stack developer and a ETL Developer for Global Payments and Fraud Protection Unit in Discover Financial services. My expertise is in building scalable backend services (API services, batch processing and shell scripting).
 
 
 I love building things, and writing about how I built them. My desire to create things started since I was a kid, and has translated into creating things for the web since 2014. I try not to restrict myself when it comes to technology, and strive to constantly learn new things.
@@ -30,9 +37,8 @@ Application security analysis and research using Fortify Security Suite.
 GIT/Stash as a repository for the application project folders
 JIRA for trouble tickets and Confluence for our knowledge base
 Exposure to Struts, Spring, Hibernate, and Faces frameworks.
-Exposure and some development of the following: Enterprise Java Beans, Servlets, JSP, JSF, JavaScript, JQuery, Oracle, HTML, and CSS.
-Used Firebug for application webpage troubleshooting and Eclipse debugger for the bug fixes.
-Evaluated and solved trouble tickets by coordinating with DBAs, Help Desk and my junior Java team.
+
+
 Participated in AGILE SCRUM meetings.
 Used a hybridized method for development. AGILE/Waterfall
 
