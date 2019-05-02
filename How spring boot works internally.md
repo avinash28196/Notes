@@ -51,7 +51,49 @@ Spring framework is a Injection dependency framework at first (it's still as it 
 
 * Languages: Kotlin, Groovy, dynamic languages.
 
+7.1. How Spring Bootstraps?
+Spring supports both the legacy web.xml way of bootstrapping as well as the latest Servlet 3+ method.
 
+Let’s see the web.xml approach in steps:
+
+Servlet container (the server) reads web.xml
+The DispatcherServlet defined in the web.xml is instantiated by the container
+DispatcherServlet creates WebApplicationContext by reading WEB-INF/{servletName}-servlet.xml
+Finally, the DispatcherServlet registers the beans defined in the application context
+Here’s how Spring bootstraps using Servlet 3+ approach:
+
+The container searches for classes implementing ServletContainerInitializer  and executes
+The SpringServletContainerInitializer finds all classes implementing WebApplicationInitializer
+The WebApplicationInitializer creates the context with XML or @Configuration classes
+The WebApplicationInitializer creates the DispatcherServlet with the previously created context.
+
+7.2. How Spring Boot Bootstraps?
+The entry point of a Spring Boot application is the class which is annotated with @SpringBootApplication:
+
+```java
+@SpringBootApplication
+public class Application {
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class, args);
+    }
+}
+```
+By default, Spring Boot uses an embedded container to run the application. In this case, Spring Boot uses the public static void main entry-point to launch an embedded web server.
+
+Also, it takes care of the binding of the Servlet, Filter, and ServletContextInitializer beans from the application context to the embedded servlet container.
+
+Another feature of Spring Boot is that it automatically scans all the classes in the same package or sub packages of Main-class for components.
+
+Spring Boot provides the option of deploying it as a web archive in an external container as well. In this case, we have to extend the SpringBootServletInitializer:
+
+```java
+@SpringBootApplication
+public class Application extends SpringBootServletInitializer {
+    // ...
+}
+```
+
+Here the external servlet container looks for the Main-class defined in the META-INF file of the web archive and the SpringBootServletInitializer will take care of binding the Servlet, Filter, and ServletContextInitializer.
 
 
 # What is Spring?
