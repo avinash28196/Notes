@@ -38,6 +38,8 @@ One could develope anything using Spring Framework that can be achieved by Sprin
 
 Spring framework is a Injection dependency framework at first (it's still as it is today) targeting managing life-cycle of Java components (what so-called beans). Today, Spring framework is pretty bloated with tons facilities/helpers on top of it; but if you look at the big picture, it's still a framework that glue things together, a middle man to MVC frameworks (Struts 1,2, JSF etc), ORM frameworks (Hibernate, iBatis, JOOQ etc) and other necessary facilities (Quartz, Email, 
 
+Spring Boot Framework Programming model is inspired by Groovy Programming model. Spring Boot internally uses some Groovy based techniques and tools to provide default imports and configuration
+
 ### Features
 * Core technologies: dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP.
 
@@ -185,3 +187,17 @@ Include the following dependencies in Maven  POM.xml
     <version>${tomcat.version}</version>
 </dependency>
 ```
+
+
+Advantages:
+
+It avoids writing lots of boilerplate Code, Annotations and XML Configuration.
+It provides Embedded HTTP servers like Tomcat, Jetty etc. to develop and test our web applications very easily.
+It provides lots of plugins to work with embedded and in-memory Databases very easily
+It provides lots of plugins to develop and test Spring Boot Applications very easily using Build Tools like Maven and Gradle
+
+
+
+Limitation/Drawback of Spring Boot:
+Spring Boot Framework has one limitation.
+It is some what bit time consuming process to convert existing or legacy Spring Framework projects into Spring Boot Applications but we can convert all kinds of projects into Spring Boot Applications. It is very easy to create brand new/Greenfield Projects using Spring Boot.
