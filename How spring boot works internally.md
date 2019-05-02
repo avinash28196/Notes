@@ -1,5 +1,63 @@
 https://dzone.com/articles/7-things-to-know-getting-started-with-spring-boot
 
+## What is springboot and spring framework?
+
+
+## Spring boot
+Spring Boot is not a Framework, it is Spring's convention-over-configuration solution for creating stand-alone, production-grade Spring-based Applications.
+
+Spring Boot builds on top of Spring Framework, and it makes it easier to use Spring Framework. Over time Spring had grown to be this incomprehensible mess of loosely connected building blocks. Building loosely connected building blocks is a great idea except when you have hundreds of them and it’s hard for anyone to keep track of which building block should be used when. Spring Boot cleans up the mess, and provides an easier way of connecting the building blocks together.
+
+## Why use spring boot.
+
+**Faster developement of project**
+
+* Opinionated ‘starter’ dependencies to simplify build and application configuration
+* Embedded server to avoid complexity in application deployment. Metrics, Health check, and externalized configuration.
+
+**Spring boot for productivity** 
+* If you are starting a project from scratch, it’s better to use Spring Boot. It provides boilerplate code, configuration and annotation configuration to quick start new spring projects within no time. 
+* Spring Boot automatically configures required classes depending on the libraries on its classpath.
+
+**Ease of integration** 
+* Spring Boot leverages existing spring projects as well as Third party projects to develop production ready applications. 
+* It provides a set of Starter Pom’s or gradle build files which one can use to add required dependencies and also facilitate auto configuration.
+
+Spring Boot provides a number of starter dependencies for different Spring modules. Some of the most commonly used ones are:
+
+1. spring-boot-starter-web
+2. spring-boot-starter-security
+3. spring-boot-starter-data-jpa
+4. spring-boot-starter-test
+5. spring-boot-starter-thymeleaf
+
+
+## Spring framework
+The Spring Framework is an application framework and inversion of control container for the Java platform.
+One could develope anything using Spring Framework that can be achieved by Spring Boot.
+
+Spring framework is a Injection dependency framework at first (it's still as it is today) targeting managing life-cycle of Java components (what so-called beans). Today, Spring framework is pretty bloated with tons facilities/helpers on top of it; but if you look at the big picture, it's still a framework that glue things together, a middle man to MVC frameworks (Struts 1,2, JSF etc), ORM frameworks (Hibernate, iBatis, JOOQ etc) and other necessary facilities (Quartz, Email, 
+
+### Features
+* Core technologies: dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP.
+
+* Testing: mock objects, TestContext framework, Spring MVC Test, WebTestClient.
+
+* Data Access: transactions, DAO support, JDBC, ORM, Marshalling XML.
+
+* Spring MVC and Spring WebFlux web frameworks.
+
+* Integration: remoting, JMS, JCA, JMX, email, tasks, scheduling, cache.
+
+* Languages: Kotlin, Groovy, dynamic languages.
+
+
+
+
+# What is Spring?
+
+The Spring framework provides complete infrastructure support for developing Java applications.
+
 # How SpringBoot Works Internally
 
 Spring Boot is an implementation of microservice architecture. This is “an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities.
