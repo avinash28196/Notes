@@ -77,6 +77,10 @@ Sooner or later I will complete it with the relative answers. Feel free to contr
 * What would you do to understand if your code has a bad design?
 
 
+
+
+
+
 ### [[↑]](#toc) <a name='languages'>Questions about Languages:</a>
 
 * Tell me the 3 worse defects of your preferred language
@@ -109,6 +113,7 @@ Sooner or later I will complete it with the relative answers. Feel free to contr
 * How would you manage Web Services API versioning?
 * From a Back End perspective, are there any disadvantages or drawbacks on the adoption of Single Page Applications?
 * Why do we usually put so much effort for having stateless services? What's so good in stateless code and why and when statefulness is bad?
+
 * REST and SOAP: when would you choose one, and when the other?
 * In Web development, Model-View Controller and Model-View-View-Model approaches are very common, both in the Back End and in the Front End. What are they, and why are they advisable?
 
