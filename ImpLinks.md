@@ -14,3 +14,10 @@ https://safe.menlosecurity.com/docview/viewer/docNB2A3721C38E2021e2794fb57332ef2
 ---
 
 https://stackify.com/spring-mvc/
+
+---
+
+
+https://github.com/Snailclimb/JavaGuide
+
+https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringMVC-Principle.md
