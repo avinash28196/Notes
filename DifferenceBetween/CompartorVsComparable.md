@@ -82,6 +82,8 @@ After Sorting : [Steven, John, Roger]
 
 ## Comparator
 
+The Comparator interface defines a compare(arg1, arg2) method with two arguments which represent compared objects and works similarly to the Comparable.compareTo() method.
+
 To create a Comparator, we have to implement the Comparator interface.
 
 ```java
