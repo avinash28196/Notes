@@ -114,7 +114,7 @@ public class CheckStringPalindrome {
      	D* Dptr = new D; // valid
      ```
 
-* **What does the following line of code do?**
+* **What does the following line of   code do?**
 	
 	```
 	char *c = "Hello";
