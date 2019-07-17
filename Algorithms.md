@@ -267,4 +267,7 @@ greedy algorithm (array)
   return largest difference
 ```
 
+
+
+
 This algorithm never needed to compare all the differences to one another, saving it an entire iteration.
