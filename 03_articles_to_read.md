@@ -109,4 +109,4 @@ Full Archive is located [here](http://www.aaronsw.com/weblog/fullarchive).
 **Note:** I still haven't went through the whole archive (located [here](http://zenhabits.net/archives/)).
 
 
-Aloha 
+
