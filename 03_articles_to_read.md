@@ -6,6 +6,7 @@
 
 This is the list of blogs that I'm planning on reading. The list consists of articles that I found interesting when I searched through the archive.
 
+
 ## Aaron Swartz's Blog
 
 I deeply admire Aaron Swartz's life and his work. That's why I've decided to read his blog to learn more about his life and to learn some new things. Note that he published a lot of posts on his blog and that he kept his blog running for years, so the list is pretty long (which is the reason why I made this list instead of reading it right away).
