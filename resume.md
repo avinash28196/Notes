@@ -89,15 +89,6 @@ Developer and Technical Support.
 Started as an intern and transitioned to full time in summer of 2002. Developed a phone system tied into a computer support system. I also Implemented bug fixes and ETL for primary credit counseling software. When short handed I provided IT support for email and web and technical support for our user base. 
 
 
-Skills:
-
-Framework and Libraries:
-
-Spring (Boot, MVC, Batch and Integration)
-Java Persistence API  JPA and Hibernate 
-Bootstrap
-React and Redux 
-
 Databases
 
 Oracle DB, MySql MongoDB and Resdis
