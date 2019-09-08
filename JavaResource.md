@@ -114,6 +114,8 @@ category: Languages
 * [config](https://github.com/typesafehub/config) - Configuration library for JVM languages.
 
 
+
+
 ### Constraint Satisfaction Problem Solver
 
 *Libraries that help on implementing optimization and satisfiability problems.*
@@ -135,6 +137,8 @@ category: Languages
 * [Jenkins](http://jenkins-ci.org/) - Provides server-based deployment services.
 * [TeamCity](http://www.jetbrains.com/teamcity/) - JetBrain's CI solution with a free version.
 * [Travis](https://travis-ci.org) - Hosted service often used for open source projects.
+
+
 
 
 ### CSV
