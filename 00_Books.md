@@ -23,6 +23,7 @@
 
 ## Books to Consider Adding to To-Read List
 
+
 * `Bruce Schneier` Data and Goliath [technology, surveillance]
 * `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
 * `Dan Riley` Generation Atheist
