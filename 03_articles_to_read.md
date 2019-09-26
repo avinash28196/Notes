@@ -24,6 +24,13 @@ Full Archive is located [here](http://www.aaronsw.com/weblog/fullarchive).
 
 #### Other
 
+
+
+
+
+
+
+sd
 * [Do I have too much faith in science?](http://www.aaronsw.com/weblog/sciencefaith)
 * [Is Awkwardness Avoidable?](http://www.aaronsw.com/weblog/awkwardoffice)
 * [When will experiences replace movie theaters?](http://www.aaronsw.com/weblog/experiences)
