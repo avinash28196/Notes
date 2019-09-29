@@ -4,7 +4,7 @@ StringBuffer and StringBuilder classes in Java which represents mutable String i
 
 
 
-Why we need StringBuffer class and StringBuilder?
+## Why we need StringBuffer class and StringBuilder?
 
 Since String is Immutable in Java, any change or operation on String object e.g. converting it to upper or lower case, 
 adding character, removing a character, or getting a substring, all results in a new String object.
@@ -77,7 +77,6 @@ confusing and error prone concurrency coding much easier. Because String is immu
 it result in more readable code.
 
 4. Performance and optimisation.
-
 
 Now when you make a class Immutable, you know in advance that, this class is not going to change once created. 
 This guarantee open path for many performance optimization e.g. caching. String itself know that, I am not going to change, 
