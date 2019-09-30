@@ -1,6 +1,8 @@
 MathWorks Interview Questions
 =============================
 
+
+
 ## <a name='toc'>Table of Contents</a>
 
   1. [Math Questions](#math)
@@ -1127,7 +1129,12 @@ line(x2,y2,'Parent',ax2,'Color','k')
 
 * **What are random processes?**
 
+Tech
+
+
 * **What is PSD? What does PSD of white noise look like?**
+
+
 
 
 
