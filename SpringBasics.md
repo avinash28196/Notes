@@ -1,4 +1,4 @@
-## The @RestController and @RequestMapping Annotations
+### The @RestController and @RequestMapping Annotations
 
 ``` java
 
