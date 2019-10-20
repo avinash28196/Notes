@@ -1,4 +1,6 @@
-## Operating System Interview Questions
+### Operating System Interview Questions
+
+
 
 **1) Explain the main purpose of an operating system?**
 
