@@ -9,7 +9,6 @@
 * `Sara Nović` Girl at War
 * `Andrew Hodges` Alan Turing: The Enigma [biography, technology, history]
 * `Andreas C. Mueller, Sarah Guido` Introduction to Machine Learning with Python [machine learning, programming]
-* `David Mitchell` Cloud Atlas [novel]
 * `Gabriella Coleman` Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous [technology, hacking]
 * `George Orwell` All Art is Propaganda: Critical Essays [media]
 * `Jonathan L. Zittrain` The Future of the Internet and How to Stop It
