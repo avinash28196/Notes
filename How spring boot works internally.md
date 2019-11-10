@@ -189,7 +189,7 @@ Include the following dependencies in Maven  POM.xml
 ```
 
 
-Advantages:
+### Advantages:
 
 It avoids writing lots of boilerplate Code, Annotations and XML Configuration.
 It provides Embedded HTTP servers like Tomcat, Jetty etc. to develop and test our web applications very easily.
@@ -198,8 +198,9 @@ It provides lots of plugins to develop and test Spring Boot Applications very ea
 
 
 
-Limitation/Drawback of Spring Boot:
-Spring Boot Framework has one limitation.
+### Limitation/Drawback of Spring Boot:
+
+
 It is some what bit time consuming process to convert existing or legacy Spring Framework projects into Spring Boot Applications but we can convert all kinds of projects into Spring Boot Applications. It is very easy to create brand new/Greenfield Projects using Spring Boot.
 
 
