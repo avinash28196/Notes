@@ -238,17 +238,3 @@ P.S. the list of articles I wrote for various websites can be seen [on my websit
     * **Autor:** Jurica Pavičić
     * **Datum:** 4.9.2013.
 
-### Tehnologija
-
-* [**FLOSS kao mainstream? Da, ali pod kojim uvjetima?**](http://www.linuxzasve.com/floss-kao-mainstream-da-ali-pod-kojim-uvjetima) - Članak koji objašnjava da ne trebamo samo promovirati FLOSS nego i zadržati njegovu suštinu.
-    * **Autor:** Grof
-    * **Datum:** 12.8.2013.
-* [**Linux jači i od poroka iliti “Penguins aren’t smokers”**](http://www.linuxzasve.com/linux-jaci-i-od-poroka-iliti-penguins-arent-smokers) - Odličan blog post koji opisuje jednog Linuksaša i njegovu borbu sa nikotinskom zavisnošću.
-    * **Autor:** Vl@do
-    * **Datum:** 1.10.2013.
-
-### Ostalo
-
-* [**Kopulacija diskretuma i kontinuuma u Univerzumu – Život**](http://www.tarzanija.com/kopulacija-diskretuma-i-kontinuuma-u-univerzumu-zivot/)
-    * **Autor:** Black Hole
-    * **Datum:** 26.4.2016.
