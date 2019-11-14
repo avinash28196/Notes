@@ -1,4 +1,4 @@
-## Whats new in srping 5
+## Whats new in spring 5
 
 1. Support was dropped for Portlet, Velocity, JasperReports, XMLBeans, JDO, Guava,
    Tiles2, and Hibernate3.
